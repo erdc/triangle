@@ -1,0 +1,6 @@
+INSTALLATION
+
+Go to the src directory, copy a makefile from triangleConfig, modify
+the makefile as necessary, and run
+
+make trilibrary
